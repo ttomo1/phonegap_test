@@ -9,5 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <plugin name="cordova-plugin-media" spec="~5.0.2" />
+    <plugin name="cordova-plugin-media" spec="4.0.0" />
 </widget>
